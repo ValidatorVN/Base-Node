@@ -48,7 +48,7 @@ Copy & Paste
     
 4/ Tải về bộ github của dự án Base:
 
-    git clone https://github.com/base-org/node
+    git clone https://github.com/base-org/node.
     cd node
     
 Sửa thông tin file Docker-compose.yaml :
